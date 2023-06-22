@@ -1,0 +1,37 @@
+[Mon Jun 19 10:51:48.494735 2023] [mpm_winnt:notice] [pid 3148:tid 824] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Jun 19 10:51:48.495736 2023] [mpm_winnt:notice] [pid 3148:tid 824] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Jun 19 10:51:48.495736 2023] [core:notice] [pid 3148:tid 824] AH00094: Command line: 'C:\\Users\\xiang\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/xiang/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\xiang\\AppData\\Roaming\\Local\\run\\Gbqh34dnP\\conf\\apache\\apache2.conf'
+[Mon Jun 19 10:51:48.498734 2023] [mpm_winnt:notice] [pid 3148:tid 824] AH00418: Parent: Created child process 2536
+[Mon Jun 19 10:51:50.450757 2023] [mpm_winnt:notice] [pid 2536:tid 832] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 19 11:05:13.361512 2023] [core:warn] [pid 10684:tid 528] AH00098: pid file C:/Users/xiang/AppData/Roaming/Local/run/Gbqh34dnP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 19 11:05:13.368554 2023] [mpm_winnt:notice] [pid 10684:tid 528] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Mon Jun 19 11:05:13.368554 2023] [mpm_winnt:notice] [pid 10684:tid 528] AH00456: Server built: Apr 21 2020 13:46:54
+[Mon Jun 19 11:05:13.368554 2023] [core:notice] [pid 10684:tid 528] AH00094: Command line: 'C:\\Users\\xiang\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/xiang/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\xiang\\AppData\\Roaming\\Local\\run\\Gbqh34dnP\\conf\\apache\\apache2.conf'
+[Mon Jun 19 11:05:13.371512 2023] [mpm_winnt:notice] [pid 10684:tid 528] AH00418: Parent: Created child process 8428
+[Mon Jun 19 11:05:15.957556 2023] [mpm_winnt:notice] [pid 8428:tid 840] AH00354: Child: Starting 64 worker threads.
+[Mon Jun 19 18:11:21.820816 2023] [mpm_winnt:crit] [pid 8428:tid 840] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Mon Jun 19 18:11:21.820816 2023] [mpm_winnt:warn] [pid 8428:tid 1416] (OS 995)由于线程退出或应用程序请求，已中止 I/O 操作。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Jun 19 18:11:21.821816 2023] [mpm_winnt:warn] [pid 8428:tid 1548] (OS 995)由于线程退出或应用程序请求，已中止 I/O 操作。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Jun 20 08:54:31.156441 2023] [core:warn] [pid 14008:tid 852] AH00098: pid file C:/Users/xiang/AppData/Roaming/Local/run/Gbqh34dnP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jun 20 08:54:31.159443 2023] [mpm_winnt:notice] [pid 14008:tid 852] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Jun 20 08:54:31.159443 2023] [mpm_winnt:notice] [pid 14008:tid 852] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Jun 20 08:54:31.159443 2023] [core:notice] [pid 14008:tid 852] AH00094: Command line: 'C:\\Users\\xiang\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/xiang/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\xiang\\AppData\\Roaming\\Local\\run\\Gbqh34dnP\\conf\\apache\\apache2.conf'
+[Tue Jun 20 08:54:31.162445 2023] [mpm_winnt:notice] [pid 14008:tid 852] AH00418: Parent: Created child process 9032
+[Tue Jun 20 08:54:33.221458 2023] [mpm_winnt:notice] [pid 9032:tid 832] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 21 09:11:19.847584 2023] [core:warn] [pid 11640:tid 752] AH00098: pid file C:/Users/xiang/AppData/Roaming/Local/run/Gbqh34dnP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 21 09:11:19.853599 2023] [mpm_winnt:notice] [pid 11640:tid 752] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Jun 21 09:11:19.853599 2023] [mpm_winnt:notice] [pid 11640:tid 752] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Jun 21 09:11:19.853599 2023] [core:notice] [pid 11640:tid 752] AH00094: Command line: 'C:\\Users\\xiang\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/xiang/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\xiang\\AppData\\Roaming\\Local\\run\\Gbqh34dnP\\conf\\apache\\apache2.conf'
+[Wed Jun 21 09:11:20.245575 2023] [mpm_winnt:notice] [pid 11640:tid 752] AH00418: Parent: Created child process 6508
+[Wed Jun 21 09:11:22.393235 2023] [mpm_winnt:notice] [pid 6508:tid 880] AH00354: Child: Starting 64 worker threads.
+[Wed Jun 21 16:11:14.410640 2023] [fcgid:warn] [pid 6508:tid 844] mod_fcgid: cleanup zombie process 244
+[Wed Jun 21 16:11:15.039649 2023] [mpm_winnt:crit] [pid 6508:tid 880] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Wed Jun 21 16:11:15.042243 2023] [mpm_winnt:warn] [pid 6508:tid 852] (OS 995)由于线程退出或应用程序请求，已中止 I/O 操作。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jun 21 16:11:15.044775 2023] [mpm_winnt:warn] [pid 6508:tid 2644] (OS 995)由于线程退出或应用程序请求，已中止 I/O 操作。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Jun 21 16:11:17.066214 2023] [mpm_winnt:notice] [pid 6508:tid 880] AH00364: Child: All worker threads have exited.
+[Wed Jun 21 16:12:11.637327 2023] [core:warn] [pid 5316:tid 776] AH00098: pid file C:/Users/xiang/AppData/Roaming/Local/run/Gbqh34dnP/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 21 16:12:11.646334 2023] [mpm_winnt:notice] [pid 5316:tid 776] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Wed Jun 21 16:12:11.646334 2023] [mpm_winnt:notice] [pid 5316:tid 776] AH00456: Server built: Apr 21 2020 13:46:54
+[Wed Jun 21 16:12:11.646334 2023] [core:notice] [pid 5316:tid 776] AH00094: Command line: 'C:\\Users\\xiang\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+8\\bin\\win32\\bin\\httpd.exe -d C:/Users/xiang/AppData/Roaming/Local/lightning-services/apache-2.4.43+8/bin/win32 -D FOREGROUND -f C:\\Users\\xiang\\AppData\\Roaming\\Local\\run\\Gbqh34dnP\\conf\\apache\\apache2.conf'
+[Wed Jun 21 16:12:11.740333 2023] [mpm_winnt:notice] [pid 5316:tid 776] AH00418: Parent: Created child process 13196
+[Wed Jun 21 16:12:16.088635 2023] [mpm_winnt:notice] [pid 13196:tid 844] AH00354: Child: Starting 64 worker threads.
